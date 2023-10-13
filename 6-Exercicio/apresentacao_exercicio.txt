@@ -1,0 +1,1 @@
+6) Construa uma classe socket TCP cliente que irá possibilitar a digitação do total de despesas realizadas em um restaurante. Crie uma classe Socket servidora que irá calcular e retornar o valor total a ser pago com gorjeta, considerando a taxa de 10%. O resultado deverá ser visualizado na classe cliente.

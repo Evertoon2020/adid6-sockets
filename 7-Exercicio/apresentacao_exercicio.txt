@@ -1,0 +1,1 @@
+7) Construa uma classe socket TCP cliente que irá possibilitar a digitação do valor de um produto. Crie uma classe Socket servidora que irá calcular e retornar o novo valor de venda sabendo-se que este sofreu um aumento de 25%. O resultado deverá ser visualizado na classe cliente.

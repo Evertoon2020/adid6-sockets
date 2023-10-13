@@ -1,0 +1,1 @@
+8) Construa uma classe socket TCP cliente que irá possibilitar a digitação do peso atual e o peso desejado de uma pessoa após processo de emagrecimento. Crie uma classe Socket servidora que irá calcular e retornar o informe o percentual do peso que deverá ser eliminado. O resultado deverá ser visualizado na classe cliente.

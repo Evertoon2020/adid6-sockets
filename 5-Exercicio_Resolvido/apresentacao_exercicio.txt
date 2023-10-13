@@ -1,0 +1,8 @@
+5) Construa uma classe socket TCP cliente que irá possibilitar a digitação de 2 números inteiros que serão enviados a uma classe socket servidora que irá calcular e retornar o somatório de todos os números pares existentes entre os números informados na classe cliente. O resultado deverá ser visualizado na classe cliente. 
+(Os próximos exercícios 6, 7 e 8 são parecidos com esse exercício resolvido)
+
+▪ Veja em:
+https://github.com/renatobdo/ADI/tree/main/Semana8 
+▪ Ex01Cliente.java 
+▪ Ex01Servidor.java 
+▪ FuncoesServidor.java
